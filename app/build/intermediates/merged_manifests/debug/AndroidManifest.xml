@@ -12,8 +12,7 @@
         android:allowBackup="false"
         android:debuggable="true"
         android:extractNativeLibs="false"
-        android:label="EarlyInitApp"
-        android:testOnly="true" >
+        android:label="EarlyInitApp" >
         <provider
             android:name="com.secure.earlyinit.EarlyInitProvider"
             android:authorities="com.secure.earlyinit.provider"

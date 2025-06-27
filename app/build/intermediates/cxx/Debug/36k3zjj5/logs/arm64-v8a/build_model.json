@@ -25,7 +25,10 @@
     "variantName": "debug",
     "isDebuggableEnabled": true,
     "validAbiList": [
-      "ARM64_V8A"
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
     ],
     "buildTargetSet": [],
     "implicitBuildTargetSet": [],
@@ -124,7 +127,6 @@
         "rootBuildGradleFolder": "C:\\Users\\inamullah.lakho\\Downloads\\EarlyInitFullProject",
         "sdkFolder": "C:\\Users\\inamullah.lakho\\AppData\\Local\\Android\\Sdk",
         "isBuildOnlyTargetAbiEnabled": true,
-        "ideBuildTargetAbi": "x86_64,arm64-v8a",
         "isCmakeBuildCohabitationEnabled": false,
         "isPrefabEnabled": false
       },

@@ -14,37 +14,36 @@
 12-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:5:18-45
 13        android:debuggable="true"
 14        android:extractNativeLibs="false"
-15        android:label="EarlyInitApp"
+15        android:label="EarlyInitApp" >
 15-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:5:46-74
-16        android:testOnly="true" >
-17        <provider
-17-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:6:9-10:39
-18            android:name="com.secure.earlyinit.EarlyInitProvider"
-18-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:7:13-46
-19            android:authorities="com.secure.earlyinit.provider"
-19-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:8:13-64
-20            android:exported="false"
-20-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:9:13-37
-21            android:initOrder="100" />
-21-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:10:13-36
-22
-23        <activity
-23-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:11:9-17:20
-24            android:name="com.secure.earlyinit.MainActivity"
-24-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:11:19-47
-25            android:exported="true" >
-25-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:12:13-36
-26            <intent-filter>
-26-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:13:13-16:29
-27                <action android:name="android.intent.action.MAIN" />
-27-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:14:17-69
-27-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:14:25-66
-28
-29                <category android:name="android.intent.category.LAUNCHER" />
-29-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:15:17-77
-29-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:15:27-74
-30            </intent-filter>
-31        </activity>
-32    </application>
-33
-34</manifest>
+16        <provider
+16-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:6:9-10:39
+17            android:name="com.secure.earlyinit.EarlyInitProvider"
+17-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:7:13-46
+18            android:authorities="com.secure.earlyinit.provider"
+18-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:8:13-64
+19            android:exported="false"
+19-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:9:13-37
+20            android:initOrder="100" />
+20-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:10:13-36
+21
+22        <activity
+22-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:11:9-17:20
+23            android:name="com.secure.earlyinit.MainActivity"
+23-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:11:19-47
+24            android:exported="true" >
+24-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:12:13-36
+25            <intent-filter>
+25-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:13:13-16:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:14:17-69
+26-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:14:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:15:17-77
+28-->C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\src\main\AndroidManifest.xml:15:27-74
+29            </intent-filter>
+30        </activity>
+31    </application>
+32
+33</manifest>

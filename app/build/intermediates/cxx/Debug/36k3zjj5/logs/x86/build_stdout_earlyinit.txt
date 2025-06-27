@@ -1,0 +1,3 @@
+ninja: Entering directory `C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\.cxx\Debug\36k3zjj5\x86'
+[1/2] Building CXX object CMakeFiles/earlyinit.dir/early_init.cpp.o
+[2/2] Linking CXX shared library C:\Users\inamullah.lakho\Downloads\EarlyInitFullProject\app\build\intermediates\cxx\Debug\36k3zjj5\obj\x86\libearlyinit.so
